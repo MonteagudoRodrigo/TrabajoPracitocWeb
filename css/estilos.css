@@ -1,7 +1,10 @@
 *{margin: 0;}
 
 footer{background-color: grey;
+    display: flexbox;
+    
     height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
 
     
 
